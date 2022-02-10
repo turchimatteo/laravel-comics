@@ -1,0 +1,31 @@
+.first-header {
+    width: 100%;
+    height: 70px;
+    background-color: rgba(0, 0, 0, 0.849);
+}
+.second-header {
+    width: 100%;
+    padding: 20px;
+}
+.wrapper {
+    height: 120px;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+.menu {
+    display: flex;
+    margin-top: 40px;
+}
+li {
+    margin-left: 10px;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: bold;
+}
+.current {
+    color: #097ceb;
+}
